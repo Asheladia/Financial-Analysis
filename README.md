@@ -98,11 +98,11 @@ Use the MCForecastTools toolkit to create a Monte Carlo simulation for the retir
 
 2. Run a Monte Carlo Simulation of `500` runs and `30` years for the `40/60` portfolio and plot the results.
 
-    ![monte carlo](Images/monte-carlo.png)
+    ![monte carlo](monte-carlo.png)
 
 3. Plot the probability distribution and confidence intervals.
 
-    ![histogram](Images/histogram.png)
+    ![histogram](histogram.png)
 
 #### Retirement Analysis
 
